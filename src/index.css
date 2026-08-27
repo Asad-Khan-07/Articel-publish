@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600;700;800&family=DM+Sans:wght@300;400;500;600&display=swap');
+@import "tailwindcss";
+@plugin "@tailwindcss/typography";
+
+@theme {
+  --color-background: #F0F9F4;
+  --color-surface: #FFFFFF;
+  --color-primary: #1A7F5C;
+  --color-primary-dark: #145F45;
+  --color-primary-light: #E6F4EE;
+  --color-accent: #F59E0B;
+  --color-premium: #7C3AED;
+  --color-premium-light: #EDE9FE;
+  --color-text: #1C2B2B;
+  --color-muted: #6B7280;
+  --font-serif: "Playfair Display", serif;
+  --font-sans: "DM Sans", sans-serif;
+}
+
+@layer base {
+  body {
+    background-color: var(--color-background);
+    color: var(--color-text);
+    font-family: var(--font-sans);
+  }
+
+  h1, h2, h3, h4 {
+    font-family: var(--font-serif);
+  }
+}
+
+@layer components {
+  .premium-gradient {
+    background: linear-gradient(135deg, #7C3AED 0%, #4F46E5 100%);
+  }
+
+  .hero-gradient {
+    background: linear-gradient(135deg, #0f4c35 0%, #1A7F5C 50%, #22c55e 100%);
+  }
+
+  .card-hover {
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+  }
+
+  .card-hover:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 20px 40px rgba(0,0,0,0.1);
+  }
+
+  .premium-badge {
+    background: linear-gradient(135deg, #F59E0B, #D97706);
+    color: white;
+    font-size: 0.65rem;
+    font-weight: 700;
+    letter-spacing: 0.1em;
+    padding: 2px 8px;
+    border-radius: 999px;
+    text-transform: uppercase;
+  }
+
+  .glass-card {
+    background: rgba(255,255,255,0.7);
+    backdrop-filter: blur(12px);
+    border: 1px solid rgba(255,255,255,0.6);
+  }
+}

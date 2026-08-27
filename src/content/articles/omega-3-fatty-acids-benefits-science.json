@@ -1,0 +1,48 @@
+{
+  "slug": "omega-3-fatty-acids-benefits-science",
+  "title": "Omega-3 Fatty Acids: What the Science Really Says",
+  "metaTitle": "Omega-3 Fatty Acids Benefits & Effects | VitalPuls",
+  "metaDescription": "An evidence-based overview of Omega-3 fatty acids, their proven benefits for the heart, brain, and joints – and what is often exaggerated.",
+  "keywords": ["Omega-3", "fatty acids", "health", "nutrition", "heart health"],
+  "category": "Nutrition",
+  "heroImage": "https://images.unsplash.com/photo-1584308666744-24d5c474f2ae?auto=format&fit=crop&q=80&w=1200",
+  "heroImageAlt": "Fish oil capsules and fresh fish",
+  "publishDate": "2024-01-18T08:00:00.000Z",
+  "readTime": "7 min",
+  "isPremium": false,
+  "author": {
+    "name": "Dr. Laura Meier",
+    "bio": "Nutritional physician and author, specializing in evidence-based nutrition science.",
+    "avatar": "https://images.unsplash.com/photo-1559839734-2b71ea197ec2?auto=format&fit=crop&q=80&w=150"
+  },
+  "intro": "Hardly any dietary supplement enjoys as much attention as Omega-3 fatty acids. From heart protection to memory improvement – the promises are big. But what is actually proven? This article gives you a scientifically founded overview.\n\nOmega-3 fatty acids are polyunsaturated fatty acids that our body cannot produce on its own. We have to ingest them through food or supplements. The most important forms are EPA and DHA (from fatty fish) and ALA (from plant sources such as flaxseeds).",
+  "sections": [
+    {
+      "heading": "Heart Health: What the Studies Show",
+      "image": "https://images.unsplash.com/photo-1505253758473-96b7015fcd40?auto=format&fit=crop&q=80&w=1200",
+      "imageAlt": "ECG heart monitor",
+      "body": "Large meta-analyses show that Omega-3 supplements can reduce the risk of heart attacks by approx. 8-10%. People with an already existing heart risk benefit most. The effect on blood pressure is moderate, but measurable.\n\nGood to know: The effects are strongest when Omega-3 comes from real food (salmon, sardines, mackerel). Supplements do not replace a balanced diet."
+    },
+    {
+      "heading": "Brain and Cognitive Function",
+      "image": "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&q=80&w=1200",
+      "imageAlt": "Brain Neurons Illustration",
+      "body": "DHA is a major component of brain cell membranes. Studies show that adequate Omega-3 intake is associated with better cognitive function in old age. In depression, Omega-3-rich diets show positive effects as a complementary (not replacing) therapy.\n\nFor pregnant women, DHA is particularly important: it promotes the brain development of the unborn child. Gynecologists often recommend a supplementation of 200 mg DHA daily."
+    }
+  ],
+  "faq": [
+    {
+      "question": "How much Omega-3 do I need per day?",
+      "answer": "Most health organizations recommend 250-500 mg of EPA and DHA combined per day for healthy adults."
+    },
+    {
+      "question": "Fish or capsules – which is better?",
+      "answer": "Fresh, fatty fish (salmon, herring, sardines) provides Omega-3 along with other nutrients such as Vitamin D and selenium. Capsules are a good alternative for vegetarians or vegans (algae oil capsules with EPA+DHA)."
+    },
+    {
+      "question": "Are there any side effects?",
+      "answer": "At high doses (over 3g/day), Omega-3 supplements can affect blood clotting. People taking blood thinners should discuss this with their doctor. Fish oil capsules can also lead to burping."
+    }
+  ]
+}
+
